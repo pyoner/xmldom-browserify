@@ -1,0 +1,19 @@
+{
+  "name": "xmldom-browserify",
+  "version": "0.0.1",
+  "description": "xmldom for browserify",
+  "main": "lib/index.js",
+  "browser": "lib/browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xmldom",
+    "browserify"
+  ],
+  "author": "Askar Yusupov",
+  "license": "MIT",
+  "dependencies": {
+    "xmldom": "~0.1.16"
+  }
+}
